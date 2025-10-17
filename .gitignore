@@ -1,0 +1,56 @@
+# ------------------------------
+# Python & Jupyter
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+.Python
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+
+# Logs & temp
+*.log
+*.tmp
+*.temp
+*.DS_Store
+Thumbs.db
+
+# ------------------------------
+# Editors & IDE
+# ------------------------------
+.vscode/
+.idea/
+
+# ------------------------------
+# OS-specific
+# ------------------------------
+Desktop.ini
+ehthumbs.db
+
+# ------------------------------
+# Project-specific notes
+# ------------------------------
+# Jangan mengabaikan file audio .wav karena diperlukan oleh notebook.
+# Jika ada output besar yang tidak ingin dilacak, pertimbangkan menaruhnya
+# di folder khusus (mis. outputs/) lalu ignore folder tersebut:
+# outputs/
