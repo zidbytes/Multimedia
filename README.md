@@ -7,7 +7,7 @@ Repositori ini berisi materi dan tugas praktik mata kuliah Multimedia. Saat ini,
 ```
 Multimedia/
 ├─ Hands-on 1/                # (Kosong untuk saat ini)
-├─ Hand-on 2/                 # (Perhatikan penamaan: "Hand-on" tanpa 's', saat ini kosong)
+├─ Hands-on 2/                 # (Kosong untuk saat ini)
 ├─ Hands-on 3/
 │  ├─ Tugas_3.ipynb           # Notebook Jupyter (tugas/praktik audio)
 │  ├─ 122140100_Tugas_3.pdf   # Laporan/penjelasan tugas
@@ -25,8 +25,6 @@ Multimedia/
 │     └─ samsmith_processed_for_remix.wav
 └─ README.md
 ```
-
-Catatan: Folder "Hand-on 2" dan "Hands-on 1" saat ini kosong. Nama folder dibiarkan apa adanya untuk konsistensi dengan materi/pertemuan.
 
 ## Prasyarat
 
@@ -108,5 +106,3 @@ Notebook `Tugas_3.ipynb` mengandalkan file WAV di folder `Hands-on 3/Data`. Past
 - Jika Anda menjalankan notebook dari folder berbeda, pastikan "Current Working Directory" mengarah ke root proyek atau perbarui path relatif pada sel yang membaca data.
 
 ---
-
-Terakhir diperbarui: 17 Oktober 2025
